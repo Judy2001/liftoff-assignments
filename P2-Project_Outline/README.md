@@ -23,3 +23,6 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### What I'll Have to Learn
 #### I will need to learn D3 to create the pie charts. ####
+
+
+#### I am using Pivotal Tracker at https://www.pivotaltracker.com/n/projects/2184857 ####
