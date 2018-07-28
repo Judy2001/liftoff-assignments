@@ -14,6 +14,7 @@ For this assignment, you'll create some initial plans for your project.
 * https://github.com/Judy2001/liftoff-assignments/blob/master/P3-Project_Planning/splash-page.jpg
 * https://github.com/Judy2001/liftoff-assignments/blob/master/P3-Project_Planning/signup-page.jpg
 * https://github.com/Judy2001/liftoff-assignments/blob/master/P3-Project_Planning/login-page.jpg
+* https://github.com/Judy2001/liftoff-assignments/blob/master/P3-Project_Planning/choosefunds-page.jpg
 * 
 
 ### Project Tracker
