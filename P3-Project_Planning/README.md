@@ -18,4 +18,4 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
-#### Link to my Pivotal Tracker:  https://www.pivotaltracker.com/projects/2184857 ####
+#### Link to my Github Project:  https://github.com/Judy2001/liftoff-assignments/projects/1?add_cards_query=is%3Aopen ####
