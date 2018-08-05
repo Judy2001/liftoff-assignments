@@ -22,4 +22,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-#### Link to my project repository:  https://github.com/Judy2001/my401k ####
+#### Link to my project repository:  https://github.com/Judy2001/my401k.git ####
